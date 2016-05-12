@@ -1,4 +1,4 @@
-APDPlat是Application Product Development Platform的缩写，意为应用级产品开发平台。 
+222APDPlat是Application Product Development Platform的缩写，意为应用级产品开发平台。 
 
 APDPlat的雏形可以追溯到2008年，并于4年后即2012年4月9日在GITHUB开源 。APDPlat在演化的过程中，经受住了众多项目的考验，一直追求简洁优雅，一直对架构、设计和代码进行重构优化。 
 
